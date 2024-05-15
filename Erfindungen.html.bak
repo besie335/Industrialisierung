@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Erfindungen</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="ErfindungenEntwiklungen.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Erfindungen.html">Erfindungen</a></li>
+			<li><aid="footer"> <a href="Geschichte.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Erfindungen</h1>
+    </header>
+     <section>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Motorwagen_Serienversion.jpg/800px-Motorwagen_Serienversion.jpg" style="max-width: 85%;">
+            </a>
+        </div>
+        <div>
+         
+            <p style="padding: 10px; color: white;">- 1881 entwickelte Adolf Ferdinand Weinhold für physikalische Laborversuche ein Thermogefäß welches schlussendlich zur Grundlage heutiger Thermoskannen wurde</p>
+			<p style="padding: 10px; color: white;">- Das welterste lenkbare Luftschiff wurde 1879 von Georg Baumgarten erfunden</p>
+			<p style="padding: 10px; color: white;">- Louis Schönherr und sein Bruder Wilhelm erfanden im 19 Jahrhundert den ersten mechanischen Webstuhl in Sachsen</p>
+			<p style="padding: 10px; color: white;">- Der Nullenzirkel mit feststehender Achse sowie die Punkteierfeder kreierte Emil Oskar Richter im Jahr 1874</p>
+		    <p style="padding: 10px; color: white;">- Die Schiffchenstickmaschine</p>
+			<p style="padding: 10px; color: white;">- wurde 1883 von Fürchtegott Moritz Albert Voigt erfunden</p>
+			
+        </div>
+    </div>
+
+
+
+
+
+
+</html>

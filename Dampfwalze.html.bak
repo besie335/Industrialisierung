@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Dampfwalze</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="DampfmaschienDampfturbieneDampfwalze.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Dampfwalze.html">Dampfwalze</a></li>
+			<li><aid="footer"> <a href="Dampfkraft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Dampfwalze</h1>
+    </header>
+     <section>
+    <h2 style="color: white;">Dies ist mein Reeles beispiel </h2>
+    <p style="color: white;">Dampfmaschienen wurden auch zum antreiben von Dampfwalzen genutzt </p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://lh4.googleusercontent.com/proxy/tM1eWt4Fh550Rhcfwb6121O_SOgpcFFyTCf1RFQt5SA5Rji9WlH62keMrbJfLvn60SKPQla0klzVG6pL-63jku6m4CCuDR5d2NmDEpNks1jdag" alt="Dampfturbine 1" style="max-width: 60%;">
+            </a>
+            <p style="padding: 10px; color: white;">Die Dampfwalze, angetrieben von Dampfkraft, beschleunigte den Straßen- und Schienenbau während der Industrialisierung. sie isSymbol für Fortschritt, effizienter Arbeitskraft und technologischen Wandel.
+</p>
+        </div>
+        <div>
+            <a href="produkte.html">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGhH1FQBR0BZLskfQorubZuxzPBM_c6NJUYbpGPZu1w&s" alt="Dampfturbine 2" style="max-width: 500%;">
+            </a>
+            <p style="padding: 10px; color: white;">Dieses Model führen wir in echt vor, also kommen sie vorbei</p>
+        </div>
+    </div>
+
+
+
+
+
+
+</html>

@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Strukturwandel</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Strukturwandel.html">Strukturwandel</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Strukturwandel</h1>
+    </header>
+  <section>
+    <h2 style="color: white;">Durch die Industrielle Revolution wandelte sich die wirtschaft </h2>
+    <p style="color: white;">Damit her geht auch der Strukturellewandel </p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2022/04/Strukturwandel-in-der-Landwirtschaft-3-1024x576.jpg" alt="Dampfturbine 1" style="max-width: 80%; margin-left: 100px;">
+            </a>
+            <p style="padding: 10px; color: white;">Durch den Einsatz von Maschinen vereinfachten viele 
+													Tätigkeiten die Arbeit auf dem Land und in der Industrie. Maschinen ersetzten Arbeitskräfte. 
+													Das führte in der Bevölkerung zu einigen Verängstigungen und zu sozialen Unterschichten. 
+
+			</p>
+			
+        </div>
+        <div>
+           
+            <p style="padding: 10px; color: white;">In der Ersten Hälfte des 19. Jahrhundert war die Landwirtschaft sehr ausgeprägt und somit 
+													Deutschland ein armes Land. Durch die industrielle Revolution gelingt der Bevölkerung den 
+													Lebensstandard zu erhöhen. Mit der Verlagerung des verarbeiteten Gewerbes in die Fabrik 
+													entstand die Gruppe der Fabrikarbeiter.
+</p>
+        </div>
+    </div>
+</section>
+
+
+</html>

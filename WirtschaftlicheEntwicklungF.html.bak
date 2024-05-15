@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>wirtschaftliche Entwicklung Früher</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="WirtschaftlicheEntwicklungF.html">Kurzinfos</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>wirtschaftliche Entwicklung Früher</h1>
+    </header>
+   <div class="container">
+        <div class="image-container">
+            <img src="https://th.bing.com/th/id/R.77f8a4effa4aa1cd3aa689052ddd2b78?rik=xr4RoLE7ld%2bCmw&riu=http%3a%2f%2fwww.sem-chemnitz.de%2fwp-content%2fgallery%2fsaechsische-maschinenfabrik-ag%2f4.jpg&ehk=Pqrsr0F8spNmbqArVUl5lYgG5tOorb0m2YTZzQ1vKHM%3d&risl=&pid=ImgRaw&r=0" alt="Bild 1" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+             
+                <p>Johann von Zimmermann errichtete die erste 
+Werkzeugmaschinenfabrik auf dem Kontinent, 
+1848 folgte die Dampflokomotive „Glück auf“ von 
+Richard Hartmann. Das Unternehmen Hartmann 
+wurden in den Folgejahren der größte 
+Industriebetrieb des Königreichs Sachsen. </p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Gartenlaube_%281883%29_b_688.jpg/800px-Die_Gartenlaube_%281883%29_b_688.jpg" alt="Bild 2" class="image" style="max-width: 44%;">
+        </div>
+        <div class="text-container">
+            <div class="text">
+               
+                <p>Die 
+Vielzahl der Schornsteine der Fabriken und 
+Gießereien und die damit verbundene Rauch und Schmutzentwicklung verliehen Chemnitz 
+den Beinamen „Sächsisches Manchester“. In der
+industriell bestimmten Stadt traten die sozialen 
+Gegensätze zutage. Der Anteil der Lohnarbeiter 
+belief sich Mitte des 19. Jahrhunderts auf ein 
+Drittel der Bevölkerung. 1852 bekam Chemnitz 
+mit der Eröffnung der Bahnstrecke Riesa–
+Chemnitz einen Eisenbahnanschluss.</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://saechsischeschreibmaschinen.com/wp-content/uploads/2018/03/wanderer-werke-pk-sw.jpg?w=748" alt="Bild 3" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+                
+                <p>Die Stadt wurde zu einem Zentrum des
+deutschen Maschinenbaus. Sächsische 
+Maschinenfabrik vorm. Richard Hartmann, 
+Schönherr & Seidler später Sächsische 
+Webstuhlfabrik AG), der Herstellung von 
+Werkzeugmaschinen (Union und Schüttoff), 
+Fahr- und Motorrädern 
+sowie Autos (Presto Werke).
+Im benachbarten 
+Schönau waren die 
+Wanderer-Werke 
+ebenfalls ein bedeutender Hersteller von Fahrzeugen sowie von 
+Werkzeug-, Schreib- und Rechenmaschinen (Marke „Continental“). 
+Das 1927 gebaute Wanderer-Automobilwerk in Siegmar wurde Teil 
+der Mitte 1932 gegründeten Auto Union, die ihren Sitz von 1936 bis 
+1948 in Chemnitz hatte.
+</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://th.bing.com/th/id/OIP.bg9u6btLa6P6Sc02tbEBvwHaEH?rs=1&pid=ImgDetMain" alt="Bild 4" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+                <h2>Text für Bild 4</h2>
+                <p>Hier steht der Text für Bild 4. Er kann beliebig lang sein und verschiedene Informationen enthalten.</p>
+            </div>
+        </div>
+    </div>
+
+
+</html>

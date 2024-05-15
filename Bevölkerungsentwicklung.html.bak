@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>Bevölkerungsentwicklung</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Bevölkerungsentwicklung.html">Bevölkerungsentwicklung</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Bevölkerungsentwicklung</h1>
+    </header>
+  <section>
+    <h2 style="color: white;">Es gibt nichts Törichteres im Leben als das Erfinden. </h2>
+    <p style="color: white;">"Ich bin jetzt fünfunddreißig Jahre alt und habe der Welt noch nicht für fünfunddreißig Pfennige genützt.“ James Watt</p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Population_Statistics_Chemnitz.png" alt="Dampfturbine 1" style="max-width: 70%;">
+            </a>
+            <p style="padding: 10px; color: white;">Durch die enorme wirtschaftliche Entwicklung der Industriezweige wuchsen 
+													Maschinenfabriken, Zeugdruckereien, Strumpfwirkereien, Spinnereien und Eisengießereien 
+													stetig voran. Durch die ständige aufwachsende Entwicklung der Industrie wurde die 
+													Bevölkerungsdichte immer größer und somit ist die Stadt Chemnitz auch durch die 
+													Eingemeindung der Vororte flächenmäßig mit ca. 221,03 km2 gewachsen.
+
+			</p>
+			
+        </div>
+        <div>
+           
+            <p style="padding: 10px; color: white;">Aufgrund der wirtschaftlichen Revolution/industrielle Revolution des 19. Jahrhundert 
+													entwickelte sich Chemnitz von einer kleinen Stadt mit 12.000 Einwohner zur drittgrößten Stadt 
+													Sachsen mit ca. 300.000 Einwohner.
+												 <div style="padding: 5px; color: white;">	 1810 lebten in Chemnitz etwa 12.000 Einwohner,  </div>
+												 <div style="padding: 5px; color: white;">	 1850 waren es bereits um 35.000, </div>
+												 <div style="padding: 5px; color: white;">	 1850 waren es bereits um 35.000, </div>
+												 <div style="padding: 5px; color: white;">	 1870 beinahe 70.000, </div>
+												 <div style="padding: 5px; color: white;">	 1900 schon über 200.000 und </div>
+												 <div style="padding: 5px; color: white;">	 1917 über 300.000. </div>
+</p>
+        </div>
+    </div>
+</section>
+
+
+</html>

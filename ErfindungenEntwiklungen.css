@@ -1,0 +1,124 @@
+nav ul {
+	list-style: none;
+	// Safari hack, see https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+	list-style: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E");
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	border: thin dotted;
+	background-color: black;
+}
+
+nav li {
+	display: inline-block;
+	list-style: none;
+	margin: 0.5em;
+	padding: 0;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+@media (min-width: 45em) {
+	nav ul {
+		flex-direction: row;
+	}
+	nav li {
+		flex: 1;
+		font-size: 1em;
+	}
+}
+
+nav a {
+	display: block;
+	padding: 0.4em;
+	text-decoration: none;
+	font-weight: bold;
+	border: thin solid var(--background-color);
+	border-radius: .5em;
+	color: var(--accent1-color);
+	background-color: var(--background-color);
+	transition: all .25s ease-in;
+}
+
+[aria-current=page] {
+	background: var(--accent2-color);
+}
+
+nav a:focus,
+nav a:hover{
+	color: var(--background-color);
+	background-color: white;
+}
+
+nav a:active {
+	color: var(--background-color);
+	background-color: black;
+}
+
+:root {
+	--background-color: darkslategray;
+	--accent1-color: white;
+	--accent2-color: darkred;
+	--text-color: black;
+}
+
+
+h1{
+	width: 100%;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 55px;
+    color: white; 
+}
+
+h2{
+	colore: white;
+}
+
+body {
+	font-family: 'Verdana', sans-serif;
+	background-position: center top;
+	background-size: cover;
+	margin: 0;
+	background-color: black;
+	
+  body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #999;
+        }
+        section {
+            padding: 20px;
+			colore:white;	
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }

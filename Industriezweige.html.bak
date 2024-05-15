@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>Industriezweig</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="ZusammenfasungDerGeschichte.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Industriezweig.html">Industriezweig</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Industriezweig</h1>
+    </header>
+   <div class="container">
+        <div class="image-container">
+            <img src="https://www.tu-chemnitz.de/mb/psp/images/tradition/tradition.jpg" alt="Bild 1" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+				<h2>Erste Maschinenbauindustrie Haubold AG von Carl Gottlieb Haubold </h2>
+                <p>- 1837 gegründet</p>
+				<p>- Herstellung vieler Produkte wie 1840 die erste Zentrifuge und 1844 die verbesserte Dreifarbeindruckmaschine</p>
+				<p>- 1892 die ersten Erzeugnisse der Eis- und Kältetechnik</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://c8.alamy.com/compde/2e1x6m9/eisengiesserei-in-der-ersten-deutschen-werkzeugmaschinenfabrik-von-johann-zimmermann-in-chemnitz-19-jahrhundert-2e1x6m9.jpg" alt="Bild 2" class="image" style="max-width: 44%;">
+        </div>
+        <div class="text-container">
+            <div class="text">
+               <h2>Werkzeugmaschinenfabrik von Johann Zimmermann </h2>
+                <p>- 1839 gegründet</p>
+				<p>- Europaweit erste Werkzeugmaschinenfabrik</p>
+				<p>- Bis zum ende des zweiten Weltkrieges einer der wichtigsten Maschinenbau-Standorte in Deutschland</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/S%C3%A4chsische_Maschinenfabrik_um_1905_%2801%29.jpg" alt="Bild 3" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+                 <h2>Hartmann AG von Richard Hartmann </h2>
+                <p>- 1870 gegründet</p>
+				<p>- Bedeutsame Maschinenfabrik im 19 Jahrhundert</p>
+				<p>- Hartmann hatte den Titel Lokomotiven-König da bis in die zwanziger Jahre 4699 Lokomotiven die Werkhallen Verliesen(wenige von denen heute noch Aktiv)</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://www.schoenherrfabrik.de/csdata/image/1/de/1918-montagehalleklein_14793_400.jpg" alt="Bild 4" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+                 <h2>Textilindustrie Louis Schönherr </h2>
+                <p>- 1851 gegründet</p>
+				<p>- Herstellung von Webstühlen</p>
+				<p>- Sorgte für Unabhängigkeit von englischer Tuch- und Wollbranche </p>
+            </div>
+        </div>
+    </div>
+
+
+</html>

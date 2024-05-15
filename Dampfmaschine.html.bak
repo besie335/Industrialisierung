@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Dampfmaschine</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="DampfmaschienDampfturbieneDampfwalze.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Dampfmaschine.html">Dampfmaschine</a></li>
+			<li><aid="footer"> <a href="Dampfkraft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Dampfmaschine</h1>
+    </header>
+  <section>
+    <h2 style="color: white;">Die Dampfmaschine war eine der wichtigsten Erfindung der Industrialisierung. </h2>
+    <p style="color: white;">sie funktioniert nach dem Physikalischen prinzip das wärmeenergie in Meschanische energie umgewandelt wird.</p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://www.tuev-nord.de/fileadmin/_processed_/b/d/csm_150-Jahre-4_e1a0aaba86.jpg" alt="Dampfturbine 1" style="max-width: 80%;">
+            </a>
+            <p style="padding: 10px; color: white;">Im Gegensatz zur Dampfmaschine, bei der der Dampf einen Kolben hin- und herbewegt, wandelt die Dampfturbine die Wärmeenergie des Dampfes direkt in Rotationsenergie um. Dieser kontinuierliche Prozess führt zu einem höheren Wirkungsgrad von bis zu 50% bei modernen Hochdruckdampfturbinen.</p>
+        </div>
+        <div>
+            <a href="produkte.html">
+                <img src="https://images.gutefrage.net/media/fragen/bilder/drehbewegung-in-der-einfach-oder-in-der-zweifach-wirkenden-dampfmaschine/0_big.jpg?v=1270999228000" alt="Dampfturbine 2" style="max-width: 200%;">
+            </a>
+            <p style="padding: 10px; color: white;">Dampfmaschinen konnten je nach Anwendungsbereich unterschiedliche Größen haben, von kleinen stationären Maschinen bis hin zu riesigen Lokomotiven. Die Größe einer Dampfmaschine variierte stark, abhängig von ihrer Funktion und dem verwendeten Dampfantrieb.
+</p>
+        </div>
+    </div>
+</section>
+
+
+</html>
+
+
+

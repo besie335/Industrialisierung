@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Chemnitz Kulturhauptstadt</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body style= background-image:url('https://www.tu-chemnitz.de/tu/aktuelles/2020/1603891034_16_9.jpg')>
+	<nav>
+		<ul>
+			<li><a href="ChemnitzKulturhauptstadt.html">Chemnitz Kulturhauptstadt</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Chemnitz als Kulturhauptstadt Europas</h1>
+    </header>
+  <section>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 50px;">
+        <div>
+            
+            <p style="padding: 10px; color: white; background-color: black;  ">
+			1. Chemnitz bezeichnet sich als Sportstadt aufgrund der vielen Chemnitzer Medaillengewinner 
+bei den Olympischen Spielen sowie der großen Begeisterung der Einheimischen am 
+Breitensport. Insgesamt gibt es circa 200 Sportvereine verschiedenster Sportarten. 
+
+			</p>
+        </div>
+        <div>
+           
+            <p style="padding: 10px; color: white; background-color: black; background-color: black;"> 2. Chemnitz ist eine kleine Großstadt, die über ein vielfältiges Kulturangebot verfügt, u.a.
+																			<div style="background-color: black; color: white" >	Museen:
+Kunstsammlungen am Theaterplatz, Museum Gunzenhauser, Schloßbergmuseum, Henry van 
+de Velde Museum in der Villa Esche und Burg Rabenstein </div>
+<div style="background-color: black; color: white" >	Theater:
+Figurentheater, dem Ballett, der Philharmonie, der Oper und dem Schauspielhaus </div>
+<div style="background-color: black; color: white" >	Kino:
+CineStar Am Roten Turm, Kino Metropol, Kino Cinestar </div>
+</p>
+        </div>
+		  <div>
+           
+            <p style="padding: 10px; color: white; background-color: black;"> 3. Die Identität der Stadt Chemnitz war in der letzten Zeit sehr geprägt von Rassismus und
+Neonationalismus. Ganz Deutschland brauchte nur den Namen Chemnitz hören oder lesen, 
+schon wurde nur schlechtes über Chemnitz erzählt.
+Das Programm Chemnitz - Kulturhauptstädte Europas bietet der Stadt wirtschaftliche und 
+kulturelle Erneuerungen sowie langfristig die Möglichkeit das Imagewandel der Stadt und der 
+kulturellen, sozialen und wirtschaftlichen Entwicklung nachhaltig in die Verpflichtung zu
+nehmen und zu stärken. Durch verschiedene kulturelle Veranstaltungen setzt sich die Stadt 
+für eine Wirtschafts- und Tourismusfreundliche Stadt zum Ziel. Die Medienberichterstattung 
+soll nach außen die Stadt Chemnitz das repräsentierten was die Stadt wirklich prägt, national 
+und international. Es bleibt zu hoffen, das Image der Stadt Chemnitz durch das 
+Kulturprogramm zum neuen positiven zu entdecken.
+</p>
+        </div>
+		  <div>
+           
+            <p style="padding: 10px; color: white; background-color: black;"> 4. Wirtschaftliche Erfolge können durch Kooperationen mit Unternehmen der Stadt Chemnitz 
+strategisch von Bedeutung sein. Finanzielle Fördermittel sollten sinnvoll für die Finanzierung 
+der kulturellen Veranstaltungen ausgeschöpft werden und für weitere Investitionen der 
+Unternehmen der Stadt Chemnitz zum Erfolg führen. Durch den wachsenden Tourismus 
+profitieren Kulturvereine, Restaurants und Hotels der Stadt Chemnitz und Umgebung für mehr 
+Einnahmen. Für Unternehmen können durch weitere Förderungen von Investitionen für mehr 
+Arbeitskräfte der Stadt Chemnitz und Umgebung sorgen, ggf. entstehen neue Industriezweige.
+Beides führt zu mehr Steuereinnahmen der Stadt Chemnitz und Umgebung. Kurzfristig wird
+die Finanzkasse der Stadt Chemnitz aufbessern. Langfristig soll durch das hoffentlich positive 
+Image der Stadt Chemnitz die Möglichkeit geben, verschiedene Netzwerke nachhaltig für sich 
+zu gewinnen und stetig weiterauszubauen
+</p>
+        </div>
+    </div>
+</section>
+</body>
+
+</html>

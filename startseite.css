@@ -1,0 +1,110 @@
+  nav ul {
+	list-style: none;
+	// Safari hack, see https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+	list-style: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E");
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	border: thin dotted;
+	background-color: black;
+}
+
+nav li {
+	display: inline-block;
+	list-style: none;
+	margin: 0.5em;
+	padding: 0;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+@media (min-width: 45em) {
+	nav ul {
+		flex-direction: row;
+	}
+	nav li {
+		flex: 1;
+		font-size: 1em;
+	}
+}
+
+nav a {
+	display: block;
+	padding: 0.4em;
+	text-decoration: none;
+	font-weight: bold;
+	border: thin solid var(--background-color);
+	border-radius: .5em;
+	color: var(--accent1-color);
+	background-color: var(--background-color);
+	transition: all .25s ease-in;
+}
+
+[aria-current=page] {
+	background: var(--accent2-color);
+}
+
+nav a:focus,
+nav a:hover{
+	color: var(--background-color);
+	background-color: white;
+}
+
+nav a:active {
+	color: var(--background-color);
+	background-color: black;
+}
+
+:root {
+	--background-color: darkslategray;
+	--accent1-color: white;
+	--accent2-color: darkred;
+	--text-color: black;
+}
+
+
+h1{
+	width: 100%;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 55px;
+    color: black; 
+	font-family: 
+}
+
+body {
+	font-family: 'Verdana', sans-serif;
+	background-image:
+	url('https://vs-aktuell.de/fileadmin/_processed_/6/f/csm_Hartmannwerke_3d113fc729.jpg');
+	background-position: center top;
+	background-size: cover;
+	margin: 0;
+	background-color: black;
+}
+
+.outer-container {
+    padding: 10px; 
+    background-color: black; 
+	color: white;
+	 font-size: 20px;
+	
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2ph; 
+	
+	
+  }
+
+picture{
+    display: flex;
+    justify-content: center; /* Zentriert das Bild horizontal */
+    align-items: center ; /* Zentriert das Bild vertikal */
+    height: 50vh; /* 100% der Bildschirmhöhe */
+ 	
+}
+

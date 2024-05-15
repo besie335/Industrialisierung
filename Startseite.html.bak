@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Alle Seiten</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="startseite.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="WichtigstenInfos.html">Wichtigsten Infos</a></li>
+			<li><a href="Geschichte.html">Geschichte</a></li>
+			<li><a href="Dampfkraft.html">Dampfkraft</a></li>
+			<li><a href="Wirtschaft.html">Wirtschaft</a></li>
+			<li><a href="Kunst.html">Stadtgestaltung</a></li>
+			<li><a href="AusländischeVersion.html">International</a></li>
+			<li><a href="Impressum.html">Impressum</a></li>
+		</ul>
+	</nav>
+<h1>Chemnitz in der Industrialisierung</h1>  
+<div class="outer-container">
+        <div class="container">
+            <p>Auf dieser Webseite erfahren sie alles wichtige über die industrialisierung von Chemnitz</p>
+        </div>
+		<div class="container">
+			<p>Mit Reelen beispielen bringen wir als Team euch das Thema näher</p>
+		</div>
+</body>
+		
+    </div>
+<picture>
+	<img src="C:\Users\Ben\Documents\Schule\FvU\Klasse 11\logo.png">
+</picture>
+
+
+
+
+</html>

@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>wirtschaftliche Entwicklung Heute</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="WirtschaftlicheEntwicklungH.html">Kurzinfos</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>wirtschaftliche Entwicklung Heute</h1>
+    </header>
+   <div class="container">
+        <div class="image-container">
+            <img src="https://www.produktion.de/files/upload/post/pro/2022/12/288688/autofabrik-ivan-traimak.jpg" alt="Bild 1" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+             
+                <p>Mit der Einheit Deutschland (1990) ist vor allem der Textilmaschinenbau zusammengebrochen.
+Automobilindustrie und der Maschinenbau konnten sich stetig weiterentwickeln. Die Stadt 
+Chemnitz profitiert in der Nachwendezeiten vor allem als Automobilzulieferbetrieb durch die
+Automobilhersteller VW, BMW und Porsche und von dem Maschinenbau. Die enge 
+Vernetzung mit Metallverarbeitung, Beschichtungstechnik, Werkstofftechnik und 
+Mikrosystemtechnik führt zur stabilen wirtschaftlichen Lage Chemnitz. </p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://www.produktion.de/files/upload/post/pro/2023/11/295945/maschinenbau.jpg" alt="Bild 2" class="image" style="max-width: 44%;">
+        </div>
+        <div class="text-container">
+            <div class="text">
+               
+                <p>Der Textilmaschinenbau ist Geschichte, der Maschinenbau schreitet wieder nach der CoronaPandemie voran.
+				Chemnitz entwickelt sich wieder mehr und mehr zu einem führenden 
+				Forschungs- und Entwicklungsstandort Deutschlands. Dafür sind nicht nur die Technische 
+				Universität, das Fraunhofer Institut und von ca. 50 Forschungs- und 
+				Entwicklungseinrichtungen ein Beleg. Neue Entwicklungen bzw. Forschungen werden in 
+				Chemnitz von Deutschland gefördert. So zum Beispiel die Wasserstoff-Forschung.</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://asc-images.forward-publishing.io/2022/11/22/5f3871c0-cd75-4a01-ae22-776f56f35554.jpeg?rect=154%2C137%2C3887%2C2592&w=1024&auto=compress%2Cformat" alt="Bild 3" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+                
+                <p>Chemnitz weist eine hervorragend ausgebaute Infrastruktur aus. Es existieren schnelle 
+Verbindungen von der Großstadt zu den umliegenden Städten sowie in europäische 
+Ballungsregionen. Das europäische Luftdrehkreuz von DHL in Leipzig ermöglicht es, 
+zahlreiche Express- und Logistikoptionen zu nutzen.
+</p>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="https://th.bing.com/th/id/OIP.bg9u6btLa6P6Sc02tbEBvwHaEH?rs=1&pid=ImgDetMain" alt="Bild 4" class="image" style="max-width: 44%;>
+        </div>
+        <div class="text-container">
+            <div class="text">
+               
+                <p>Chemnitz wird von den Autobahnen A 4 und A 72 durchzogen. Der innerstädtische öffentliche 
+Nahverkehr setzt sich aus fünf Straßenbahnlinien, Regionalbuslinien und Stadtbuslinien 
+zusammen</p>
+            </div>
+        </div>
+    </div>
+
+
+</html>

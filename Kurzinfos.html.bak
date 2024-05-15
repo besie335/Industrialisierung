@@ -1,0 +1,43 @@
+l>
+<head>
+<title>Kurzinfos</title>    <meta charset="utf-8">
+ <link rel="stylesheet" href="wirtschaftZusammengefasteWebseiten.css">
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="Kurzinfos.html">Kurzinfos</a></li>
+			<li><aid="footer"> <a href="Wirtschaft.html">zurück</a></li>
+		
+	</nav>
+   <header>
+        <h1>Kurzinfos</h1>
+    </header>
+  <section>
+    <h2 style="color: white;">Es gibt nichts Törichteres im Leben als das Erfinden. </h2>
+    <p style="color: white;">"Ich bin jetzt fünfunddreißig Jahre alt und habe der Welt noch nicht für fünfunddreißig Pfennige genützt.“ James Watt</p>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-left: 120px;">
+        <div>
+            <a href="produkte.html">
+                <img src="https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2022/07/WP_Was-ist-Wirtschaft_FINAL.jpg" alt="Dampfturbine 1" style="max-width: 80%;">
+            </a>
+            <p style="padding: 10px; color: white;">Die Industrialisierung bezeichnet den Prozess des Übergangs von der Handarbeit zur 
+													Fabrikarbeit, welcher durch die Erfindung von Maschinen möglich wurde. Der Begriff 
+													Industrielle Revolution steht dabei besonders für die erste Phase der Industrialisierung.
+
+			</p>
+			
+        </div>
+        <div>
+           
+            <p style="padding: 10px; color: white;">Eindeutige Jahreszahlen können für den Beginn und das Ende dieses Prozesses nicht 
+													angeben werden. In England setzte die Industrialisierung bereits um 1770 ein und breitete sich 
+													erst im 19. Jahrhundert allmählich von Westen nach Osten aus und begann um 1840 in 
+													Deutschland. Länder wie Russland und Japan erreichte die Industrialisierung erst nach 1880
+</p>
+        </div>
+    </div>
+</section>
+
+
+</html>
